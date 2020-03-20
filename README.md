@@ -1,9 +1,11 @@
 # Project-Android-for-Final
 แอปนี้จัดทำเนื่องจากความชอบในเกมการ์ด Magic the Gathering จึงจัดทำเป็นร้านขายหุ่นของเล่นของสินค้าจากเกมนี้
 
-  1) หน้าจอล๊อคอิน                                                      2) หน้าจอล๊อคอินเฟสบุ๊ค
+1) หน้าจอล๊อคอิน
+<img src="https://user-images.githubusercontent.com/47518969/77181063-614e1a00-6afd-11ea-8c5c-0b6fa36f7fde.png" width = "35%">
 
-<img src="https://user-images.githubusercontent.com/47518969/77181063-614e1a00-6afd-11ea-8c5c-0b6fa36f7fde.png" width = "35%"><img src="https://user-images.githubusercontent.com/47518969/77182001-ad4d8e80-6afe-11ea-8637-d170bb383b45.png" width = "35%">
+2) หน้าจอล๊อคอินเฟสบุ๊ค
+<img src="https://user-images.githubusercontent.com/47518969/77182001-ad4d8e80-6afe-11ea-8637-d170bb383b45.png" width = "35%">
 
 3) หน้าจอแสดงผู้ที่ล๊อคอิน
 <img src="https://user-images.githubusercontent.com/47518969/77181826-75dee200-6afe-11ea-9881-374ce5610ef9.png" width = "35%">
